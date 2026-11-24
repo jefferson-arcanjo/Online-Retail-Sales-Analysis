@@ -1,0 +1,11 @@
+# Original dataset
+data/*.xlsx
+
+# Generated data files
+data/*.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
